@@ -45,8 +45,8 @@ logs/
 *.jpg
 *.jpeg
 *.webp
-*.txt
-*.json
+# *.txt  # 注释掉，保留requirements.txt
+# *.json  # 注释掉，保留workflows目录下的json文件
 
 # Development
 dev_config.json
