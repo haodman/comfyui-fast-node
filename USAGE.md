@@ -141,3 +141,5 @@ LoadingImageListNode → 处理节点 → CustomNamingSaver
 1. 查看ComfyUI控制台输出
 2. 检查生成的metadata.json文件
 3. 使用热更新功能实时调试 
+
+git clone https://github.com/haodman/comfyui-fast-node.git 

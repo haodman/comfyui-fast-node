@@ -36,7 +36,7 @@
 ### 方法二：使用Git克隆
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/你的用户名/comfyui-fast-node.git
+git clone https://github.com/haodman/comfyui-fast-node.git
 ```
 
 ### 方法三：使用安装脚本
@@ -209,8 +209,8 @@ LoadingImageListNode → 处理节点 → CustomNamingSaver
 
 ## 📞 联系方式
 
-- GitHub Issues: [提交问题](https://github.com/你的用户名/comfyui-fast-node/issues)
-- 讨论区: [GitHub Discussions](https://github.com/你的用户名/comfyui-fast-node/discussions)
+- GitHub Issues: [提交问题](https://github.com/haodman/comfyui-fast-node/issues)
+- 讨论区: [GitHub Discussions](https://github.com/haodman/comfyui-fast-node/discussions)
 
 ---
 

@@ -27,7 +27,7 @@
 ### 设置步骤
 1. Fork并克隆仓库
 ```bash
-git clone https://github.com/你的用户名/comfyui-fast-node.git
+git clone https://github.com/haodman/comfyui-fast-node.git
 cd comfyui-fast-node
 ```
 

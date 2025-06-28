@@ -48,7 +48,7 @@
 git init
 
 # 添加远程仓库
-git remote add origin https://github.com/你的用户名/comfyui-fast-node.git
+git remote add origin https://github.com/haodman/comfyui-fast-node.git
 
 # 添加所有文件
 git add .

@@ -184,7 +184,7 @@ def main():
         print(f"\n✅ 发布完成!")
         print(f"版本: {new_version}")
         print(f"发布包: {zip_file}")
-        print(f"GitHub: https://github.com/你的用户名/comfyui-fast-node/releases/tag/{new_version}")
+        print(f"GitHub: https://github.com/haodman/comfyui-fast-node/releases/tag/{new_version}")
         
     except Exception as e:
         print(f"❌ 发布失败: {e}")
